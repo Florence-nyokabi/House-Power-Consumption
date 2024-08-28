@@ -1,11 +1,14 @@
 # House-Power-Consumption
 Machine Learning:  Exploring Regression Analysis
-**Chosen Dataset**: **Individual Household Electric Power Consumption Dataset**
 
-**Source**: UCI Machine Learning Repository
 
-**Link**: [Individual Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+ci)
-- This dataset is publicly available and has been sourced from the UCI Machine Learning Repository. It consists of measurements of electric power consumption in a single household over an extended period (from December 2006 to November 2010). The dataset captures various attributes related to power usage, including Global_active_power, Global_reactive_power, Voltage, Global_intensity, and sub-metering values.
+
+- **Chosen Dataset**: **Individual Household Electric Power Consumption Dataset**
+
+- **Source**: UCI Machine Learning Repository
+
+- **Link**: [Individual Household Electric Power Consumption Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+ci)
+ - This dataset is publicly available and has been sourced from the UCI Machine Learning Repository. It consists of measurements of electric power consumption in a single household over an extended period (from December 2006 to November 2010). The dataset captures various attributes related to power usage, including Global_active_power, Global_reactive_power, Voltage, Global_intensity, and sub-metering values.
 
 
 **Dataset Overview**
